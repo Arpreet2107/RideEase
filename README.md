@@ -28,46 +28,27 @@ RideEase is a full-stack, AI-powered cab booking platform built using the MERN (
 ✅ Hyper-Optimized Ride Sharing – AI dynamically groups passengers based on real-time traffic, shortest detours, and safety ratings.
 ✅ Smart Cost Splitting – Automatically calculates fare splits based on distance traveled by each passenger in a pooled ride.
 2️⃣ NFT-Based Loyalty & Rewards System
-
-✅ Earn NFT Badges – Riders & drivers get blockchain-backed loyalty badges that provide discounts, VIP services, and exclusive benefits.
-✅ Ride-to-Earn Model – Frequent riders can exchange NFTs for free rides or cashback.
-3️⃣ Green & Sustainability Mode 🌱
-
 ✅ Eco-Friendly Rides – App prioritizes electric & hybrid vehicles over regular ones for sustainability-conscious users.
 ✅ Carbon Footprint Tracker – Displays CO₂ saved per ride and suggests green alternatives.
 ✅ Tree-Planting Rewards – A percentage of fare goes towards planting trees, visible in the user’s impact dashboard.
 4️⃣ AI Smart Driver Assistance 🤖
-
 ✅ Driver Sleep Detection – Uses phone sensors & AI to detect drowsiness and alert drivers.
 ✅ Traffic Prediction & Route Optimization – Predicts upcoming traffic jams using live data and suggests the best route dynamically.
-5️⃣ Crypto & Web3 Payment Options 🔗
-
-✅ Accept payments in Bitcoin, Ethereum, and stablecoins along with traditional payment methods.
-✅ Crypto-based Surge Pricing Shield – Users can opt for fixed-price rides paid in crypto to avoid peak-hour pricing.
 6️⃣ AR-Based Pickup & Dropoff Navigation 📍
-
 ✅ Uses Augmented Reality (AR) to guide users visually to their driver at crowded locations like malls or airports.
 ✅ Drivers can also see AR markers for exact passenger locations.
 7️⃣ In-Ride Entertainment & Productivity Hub 🎮
 
 ✅ Passengers can stream movies, music, or browse work-related content inside the app during the ride.
-✅ Virtual Office Mode – Offers in-app Zoom calls, dictation notes, and voice-to-text productivity tools for business travelers.
 8️⃣ Social Ride Matching – Meet New People 🤝
-
 ✅ Riders can choose ride partners based on shared interests, preferred music taste, or professional networking.
-✅ Business Mode – Connects professionals for networking rides (e.g., match with a fellow startup founder).
 9️⃣ AI-Powered Safety & SOS Mode 🛐
-
 ✅ AI Anomaly Detection – If the route deviates suspiciously or sudden braking occurs, the app auto-notifies emergency contacts.
 ✅ Live Trip Monitoring with AI – Friends & family can monitor rides via AI-powered trip tracking.
 ✅ Hidden Panic Mode – Discreet voice-activated emergency signals (e.g., saying "I forgot my umbrella" alerts authorities).
 🔠 Subscription-Based Ride Packages 🎟️
-
-✅ Riders can purchase monthly ride passes at a fixed price, avoiding fluctuating fares.
 ✅ Family & Group Plans – A shared subscription plan where multiple users can book rides under one account.
-🔥 Bonus Feature: AI-Powered Reverse Ride Auction
 
-✅ Bidding System for Rides – Instead of fixed fares, passengers can set their budget and drivers bid for the ride, ensuring the best deals.
 🚀 Contribute
 
 We welcome contributions! Feel free to fork the repository, create issues, and submit pull requests.
