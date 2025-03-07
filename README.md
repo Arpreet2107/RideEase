@@ -27,12 +27,8 @@ RideEase is a full-stack, AI-powered cab booking platform built using the MERN (
 
 ✅ Hyper-Optimized Ride Sharing – AI dynamically groups passengers based on real-time traffic, shortest detours, and safety ratings.
 ✅ Smart Cost Splitting – Automatically calculates fare splits based on distance traveled by each passenger in a pooled ride.
-2️⃣ NFT-Based Loyalty & Rewards System
 ✅ Eco-Friendly Rides – App prioritizes electric & hybrid vehicles over regular ones for sustainability-conscious users.
-✅ Carbon Footprint Tracker – Displays CO₂ saved per ride and suggests green alternatives.
-✅ Tree-Planting Rewards – A percentage of fare goes towards planting trees, visible in the user’s impact dashboard.
 4️⃣ AI Smart Driver Assistance 🤖
-✅ Driver Sleep Detection – Uses phone sensors & AI to detect drowsiness and alert drivers.
 ✅ Traffic Prediction & Route Optimization – Predicts upcoming traffic jams using live data and suggests the best route dynamically.
 6️⃣ AR-Based Pickup & Dropoff Navigation 📍
 ✅ Uses Augmented Reality (AR) to guide users visually to their driver at crowded locations like malls or airports.
